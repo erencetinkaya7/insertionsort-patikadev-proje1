@@ -15,8 +15,8 @@ Answers:
 
  2 - n=6, 1'den n'e kadar olan sayıların toplamı => n*(n+1)/2 => Big O Notation, O(n^2)=O(36)
  
- 3 - Worst Case(Sonda Olması) => O(n^2), Average Case => O(n^2), Best Case => O(n) Liste zaten sıralı ise hiçbir şeyin yeri değiştirilmezdi. Her eleam için bir kere işlem yapılırdı.
+ 3 - Worst Case(Sonda Olması) => O(n^2), Average Case => O(n^2), Best Case => O(n) Liste zaten sıralı ise hiçbir şeyin yeri değiştirilmezdi. Her eleman için bir kere işlem yapılırdı.
 
  4 - 18 sayısı küçükten büyüğe sıralamada ortada yer aldığı için average casede değerlendirilebilir.
 
-[2,3,5,8,7,9,4,15,6], [2,3,5,8,7,9,4,15,6] , [2,3,4,8,7,9,5,15,6], [2,3,4,5,7,9,8,15,6]
+5 - [2,3,5,8,7,9,4,15,6], [2,3,5,8,7,9,4,15,6] , [2,3,4,8,7,9,5,15,6], [2,3,4,5,7,9,8,15,6]
